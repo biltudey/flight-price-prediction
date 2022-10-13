@@ -1,4 +1,4 @@
-pip install pip==21.3.1
+pip==21.3.1
 appdirs==1.4.3
 certifi==2020.6.20
 click==7.1.2
